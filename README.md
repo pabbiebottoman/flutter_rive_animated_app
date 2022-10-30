@@ -1,4 +1,4 @@
-# rive_animated_app
+# Rive Animated App
 
 A new Flutter project.
 
